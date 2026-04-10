@@ -40,11 +40,12 @@ Rust-first poker library ecosystem, from card primitives to GTO solvers and gRPC
 | [pkapi](https://github.com/ImperialBower/pkapi) | Protocol Buffer definitions for the PK engine |
 | [pkstate](https://github.com/ImperialBower/pkstate) | Serialization format for poker game state |
 
-### Examples
+### WASM Examples 
 
 | Repository | Description |
 |------------|-------------|
-| [pkgto-web](https://github.com/ImperialBower/pkgto-web) | WebAssembly-powered GTO preflop equity analyzer — runs pkcore in the browser |
+| [pkgto-web](https://github.com/ImperialBower/pkgto-web) | WebAssembly-powered GTO preflop equity analyzer |
+| [pkkuhn-web](https://github.com/ImperialBower/pkkuhn-web) | WebAssembly-powered interactive Kuhn poker game |
 
 ### Predecessors
 
