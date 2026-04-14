@@ -46,6 +46,7 @@ Rust-first poker library ecosystem, from card primitives to GTO solvers and gRPC
 |------------|-------------|
 | [pkgto-web](https://github.com/ImperialBower/pkgto-web) | WebAssembly-powered GTO preflop equity analyzer |
 | [pkkuhn-web](https://github.com/ImperialBower/pkkuhn-web) | WebAssembly-powered interactive Kuhn poker game |
+| [pkarena0-web](https://github.com/ImperialBower/pkarena0-web) | WebAssembly-powered player arena |
 
 ### Predecessors
 
