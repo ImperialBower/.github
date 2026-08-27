@@ -29,7 +29,7 @@ Rust-first poker library ecosystem, from card primitives to GTO solvers and gRPC
 
 | Repository | Description |
 |------------|-------------|
-| [pkpy](https://github.com/ImperialBower/pkpy) | Python bindings for pkcore |
+| [pkcore.py](https://github.com/ImperialBower/pkcore.py) | Python bindings for pkcore |
 | [pknotebook](https://github.com/ImperialBower/pknotebook) | Jupyter (All Spark) notebook image bundling pkcore and pkpy |
 | [pktui](https://github.com/ImperialBower/pktui) | Rust Ratatui Console Client for pkcore |
 
