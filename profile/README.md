@@ -22,7 +22,7 @@ Rust-first poker library ecosystem, from card primitives to GTO solvers and gRPC
 |------------|-------------|
 | [pkcore](https://github.com/ImperialBower/pkcore) | Core poker evaluation engine: hand ranking, CFR solvers (Kuhn, DCFR), and odds calculation |
 | [ckc-rs](https://github.com/ImperialBower/ckc-rs) | Isolated Cactus Kev hand evaluator — the high-performance inner loop inside pkcore |
-| [cardpack.rs](https://github.com/ImperialBower/cardpack.rs) | Generic multi-deck card library supporting French, Euchre, Pinochle, Tarot, and more |
+| [cardpack.rs](https://github.com/ImperialBower/cardpack.rs) | Generic multi-deck card library supporting French, Euchre, Skat, Tarot, and more |
 | [wincounter](https://github.com/ImperialBower/wincounter) | Win/loss/tie counter utilities for hand equity calculations |
 
 ### Language Bindings & Runtimes
